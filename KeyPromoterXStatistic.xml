@@ -81,6 +81,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'RabitmqTestApplicationTests.testStringSend'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'RabitmqTestApplicationTests.testStringSend'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Declaration">
         <Item>
           <IdeaActionID>GotoDeclaration</IdeaActionID>
@@ -167,6 +175,14 @@
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
           <Count>51</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'RabitmqTestApplication'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'RabitmqTestApplication'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Settings...">
