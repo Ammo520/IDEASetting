@@ -1,0 +1,22 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="* Disables the {@link AbstractHttpConfigurer} by removing it. After doing so a fresh * version of the configuration can be applied. * * @return the {@link HttpSecurityBuilder} for additional customizations" />
+      <item value="he {@link ServletApiConfigurer} for further customizations" />
+      <item value="Allows modifying and accessing the {@link UserDetailsService} from * {@link #userDetailsServiceBean()} without interacting with the * {@link ApplicationContext}. Developers should override this method when changing * the instance of {@link #userDetailsServiceBean()}." />
+      <item value="* Override this method to configure the {@link HttpSecurity}. Typically subclasses * should not invoke this method by calling super as it may override their * configuration. The default configuration is: * * &lt;pre&gt; * http.authorizeRequests().anyRequest().authenticated().and().formLogin().and().httpBasic(); * &lt;/pre&gt; *" />
+      <item value="* Gets the ApplicationContext" />
+      <item value="Delays the use of the {@link UserDetailsService} from the * {@link AuthenticationManagerBuilder} to ensure that it has been fully configured." />
+      <item value="Delays the use of the {@link AuthenticationManager} build from the * {@link AuthenticationManagerBuilder} to ensure that it has been fully configured." />
+      <item value="Creates an instance which allows specifying if the default configuration should be * enabled. Disabling the default configuration should be considered more advanced * usage as it requires more understanding of how the framework is implemented." />
+      <item value="Creates an instance with the default configuration enabled." />
+      <item value="Provides a convenient base class for creating a {@link WebSecurityConfigurer}" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="9" />
+        <entry key="ENGLISH" value="10" />
+      </map>
+    </option>
+  </component>
+</application>
