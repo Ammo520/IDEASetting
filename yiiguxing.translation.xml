@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Only select tasks for which the given user is a candidate. If identity service is available then also through user's groups." />
       <item value="Get Variables Payload" />
       <item value="GetVariablesPayload" />
       <item value="An implementation of the org.activiti.engine.impl.pvm.delegate.TaskListener interface that will be called when the task event occurs." />
@@ -18,7 +19,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="11" />
-        <entry key="ENGLISH" value="11" />
+        <entry key="ENGLISH" value="12" />
       </map>
     </option>
   </component>
